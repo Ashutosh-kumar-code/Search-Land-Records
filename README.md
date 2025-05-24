@@ -10,7 +10,7 @@ A simple Node.js API to search land records and download a PDF summary.
 ## Setup Instructions
 
 1. **Clone the repo**  
-   git clone [<your_repo_link>](https://github.com/Ashutosh-kumar-code/Search-Land-Records.git)
+   git clone [<repo_link>](https://github.com/Ashutosh-kumar-code/Search-Land-Records.git)
    cd <project_folder>
 
 ## Install Dependencies & Start the Server
